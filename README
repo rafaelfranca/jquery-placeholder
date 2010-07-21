@@ -1,0 +1,5 @@
+Adiciona um placeholder via javascript em inputs que possuem um atributo placeholder.
+
+Caso seja necessário adicionar em um input sem esse atributo basta utilizar o método placeholder como a seguir:
+
+$('#field').placeholder('Buscar...');
